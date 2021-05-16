@@ -1,0 +1,202 @@
+.body
+
+{
+
+	margin:0;
+
+}
+
+
+
+
+
+.header-area
+
+{
+margin:0;
+height:400px;
+background-image:url("slider-3.jpg");
+
+}
+.img
+{
+	background-image:url("slider-3.jpg");
+position:relative;
+	background-repeat:no-repeat;
+
+	background-size:100% 245px;
+
+	
+
+	margin:auto;
+}
+
+	
+}
+
+
+.header-content
+
+{
+
+	
+
+	padding-top:58px;
+
+	padding-bottom:30px;
+
+	padding-left:107px;
+
+	color:#fff;
+
+	
+
+	
+
+}
+
+.header-content u
+
+{
+margin-left:12%;
+margin-top:12%;	
+ color:#fff;
+	
+
+	font-family:'PT Serif',serif;
+
+   
+
+
+
+}
+
+
+
+
+
+
+
+.header-content h2
+
+{
+
+	margin-left:12%;
+ color:#fff;
+	width:200px;
+
+	font-family:'PT Serif',serif;
+
+   
+ color:#fff;
+
+
+}.header-content h5
+
+{
+margin-left:12%;
+	color:#fff;
+
+	width:200px;
+
+	font-family:'PT Serif',serif;
+
+
+
+
+
+}
+
+
+
+.header-content a
+
+{
+
+	
+
+	
+margin-left:12%;
+   color:white;
+
+  
+
+   text-decoration:none;
+
+   padding:10px 10px;
+   border:3px solid antiquewhite;
+ 
+
+ 
+
+
+
+}
+
+.header-content a:hover{
+
+	background-color:antiquewhite;
+
+	 border-color:gray;
+
+	
+
+}
+
+
+.t
+{
+	
+	
+
+	
+
+	
+
+   color:antiquewhitess;
+
+  
+
+   text-decoration:none;
+
+   padding:10px 10px;
+   border:3px solid antiquewhite;
+ 
+
+ 
+}
+
+
+
+
+.ta
+
+{
+
+	
+
+	margin-bottom:10%;
+margin-left:40%;
+   color:white;
+
+  
+
+   text-decoration:none;
+
+   padding:10px;
+   border:3px solid brown;
+ 
+width:10%;
+ 
+
+
+
+}
+.ta a:hover
+{
+	background-color:brown;
+
+
+
+
+}
